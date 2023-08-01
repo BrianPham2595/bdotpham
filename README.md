@@ -1,5 +1,5 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/brian-pham-b94917141
-/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Brian! <br/>Programmer</a>, <a href="https://www.linkedin.com/in/brian-pham-b94917141
+/">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
